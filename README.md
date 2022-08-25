@@ -1,16 +1,13 @@
 # MechaCar_Statistical_Analysis
 
-## Project Overview
-This project involves the use of statistics and hypothesis testing to analyze a series of datasets from the automotive industry.\
-All of the statistical analysis and visualizations is written in the R programming language.
+## Overview
+Using Statistical analysis and hypothesis testing, we will analyze different vehicle datasets and see what conclusions can be made.
 
 ## Resources
-- Data Source: [MechaCar_mpg.csv](https://github.com/MiguelB512/MechaCar-Statistical-Analysis/blob/main/Resources/MechaCar_mpg.csv), [Suspension_Coil.csv](https://github.com/MiguelB512/MechaCar-Statistical-Analysis/blob/main/Resources/Suspension_Coil.csv)
-- Software: RStudio 1.3.1093
+- Software: R Version 4.2.1
+- Data Source: [MechaCar_mpg.csv](https://github.com/MiguelB512/MechaCar-Statistical-Analysis/blob/main/Resources/MechaCar_mpg.csv), [Suspension_Coil.csv](https://github.com/MiguelB512/MechaCar-Statistical-Analysis/blob/main/Resources/Suspension_Coil.csv) <br> <br>
 
-<br>
-
-## Linear Regression to Predict MPG
+## Predicting MPG using Linear Regression
 
 ![image](https://user-images.githubusercontent.com/60283799/186544803-8e91b04f-c881-4c41-8f17-83d5d65d30e0.png)
 
